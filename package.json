@@ -1,0 +1,14 @@
+{
+  "name": "eslint-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.13.1"
+  }
+}
